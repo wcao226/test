@@ -1,1 +1,1 @@
-<img alt="Documentation" src="https://img.shields.io/badge/som_dev-"{{som_dev}}"-brightgreen.svg" />
+<img alt="Documentation" src="https://img.shields.io/badge/som_dev-0-brightgreen.svg" />
