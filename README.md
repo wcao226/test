@@ -1,1 +1,1 @@
-https://img.shields.io/badge/documentation-yes-brightgreen.svg
+<html><body><img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" /></body></html>
