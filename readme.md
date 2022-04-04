@@ -1,0 +1,1 @@
+https://img.shields.io/badge/documentation-yes-brightgreen.svg
